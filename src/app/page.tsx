@@ -19,5 +19,5 @@ export const metadata: Metadata = {
 }
 
 export default function Home() {
-  return <main>Main Page</main>
+  return <main className='text-[red]'>Main Page</main>
 }
